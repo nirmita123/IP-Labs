@@ -36,6 +36,7 @@ def DrawTriangle(P1,P2,P3,c):
     """
     a = [P1.x,P2.x,P3.x]
     b = [P1.y,P2.y,P3.y]
+    print(a)
     DrawPoly(a,b,FillColor=c)
     
 def Tile(P1,P2,P3,L):
