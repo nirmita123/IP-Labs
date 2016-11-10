@@ -5,7 +5,7 @@
 This procedure ``tiles'' a given triangle with
 smaller triangles.
 Your task is to complete the Squares procedure
-to obtain the figure as shared in the assignment
+to obtain the figure as shared in the assignmentd
 """
 from SimpleGraphics import *
 class Point(object):
